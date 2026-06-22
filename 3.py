@@ -1,3 +1,4 @@
+!pip install gensim matplotlib scikit-learn
 from gensim.models import Word2Vec
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
