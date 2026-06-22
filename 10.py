@@ -1,3 +1,4 @@
+!pip install sentence-transformers faiss-cpu pdfplumber
 import pdfplumber
 from sentence_transformers import SentenceTransformer
 import faiss
